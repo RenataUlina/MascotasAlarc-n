@@ -1,0 +1,27 @@
+h1{
+    color:rgb(143, 67, 23)
+
+}
+body{
+justify-content: center;
+}
+.header{
+    background-color: rgb(247, 242, 173);
+    display:flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    justify-content: space-between;
+}
+.site-description{
+    display:flex;
+    flex-direction: column;
+    justify-content: baseline;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+p{
+    justify-content:right(300,300);
+}
